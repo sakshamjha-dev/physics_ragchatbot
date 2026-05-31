@@ -5,7 +5,10 @@ langchain-huggingface
 langchain-groq
 langchain-text-splitters
 langchain-core
-chromadb
+faiss-cpu
 pypdf
 sentence-transformers
 python-dotenv
+pymupdf
+gdown
+numpy
