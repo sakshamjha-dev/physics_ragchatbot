@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 st.title("Physics RAG Tutor")
-st.caption("Powered by HuggingFace Embeddings · Groq LLaMA3 · ChromaDB")
+st.caption("Powered by HuggingFace Embeddings · Groq LLaMA3 · FAISS")
 
 # ── Sidebar: API key input ────────────────────────────────────
 with st.sidebar:
