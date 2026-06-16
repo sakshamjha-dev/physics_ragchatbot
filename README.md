@@ -46,7 +46,7 @@ You can get one from https://console.groq.com/keys
 
 ### Clone the repo
 ```bash
-  https://github.com/sakshamjha-dev/physics_ragchatbot.git
+  git clone https://github.com/sakshamjha-dev/physics_ragchatbot.git
 
   cd physics_ragchatbot
 ```
